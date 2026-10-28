@@ -524,6 +524,12 @@ node bin/archify.mjs deliver workflow examples/agent-tool-call.workflow.json /tm
 
 使用、分享、反馈问题和贡献改进，也都是对项目的支持。
 
+## 贡献者
+
+感谢每一位参与构建 Archify 的人。[欢迎关注他们。](https://github.com/tt-a1i/archify/graphs/contributors) ❤️
+
+<p align="center"><a href="https://github.com/tt-a1i/archify/graphs/contributors"><img alt="Archify 贡献者" src="https://raw.githubusercontent.com/tt-a1i/archify/contributors/contributors.svg" width="1000" /></a></p>
+
 ## Star History
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tt-a1i/archify/star-history/assets/star-history-dark.svg" /><img alt="Star History" src="https://raw.githubusercontent.com/tt-a1i/archify/star-history/assets/star-history-light.svg" /></picture></p>
