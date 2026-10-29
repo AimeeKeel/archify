@@ -4,6 +4,8 @@ All notable changes are documented here. Format loosely follows [Keep a Changelo
 
 ## [Unreleased]
 
+- **DSH synchronization candidate (#1153).** Prepare independently versioned adapter 1.1.0 with pinned Archify 3.2.0 and exact host 0.2.1-rc.2 acceptance inputs. This does not publish the plugin: public installation remains on 1.0.0 pending separate release authorization and verification. See the [adapter changelog](integrations/deepseek-harness/CHANGELOG.md).
+
 ## [3.2.0] — 2026-10-18
 
 ### Added
